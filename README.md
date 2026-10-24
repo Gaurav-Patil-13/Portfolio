@@ -1,112 +1,95 @@
-# Gaurav Patil — Developer Portfolio
+# 👋 Hi, I'm Gaurav Patil
 
-A sleek, high-performance personal portfolio website built with **React**, **Vite**, **Tailwind CSS**, and **Framer Motion**. Designed with modern aesthetics, dark mode, smooth micro-interactions, and magnetic UI components.
+### Full-Stack Developer | Competitive Programmer | Software Engineer
 
----
+I'm a Computer Science and Engineering student at **Walchand College of Engineering, Sangli**, passionate about building scalable web applications, solving challenging algorithmic problems, and exploring new technologies.
 
-## 🚀 Live Demo & Links
-
-- **GitHub Repository**: [https://github.com/Gaurav-Patil-13](https://github.com/Gaurav-Patil-13)
-- **LinkedIn**: [https://www.linkedin.com/in/gaurav-patil-1729b531a/](https://www.linkedin.com/in/gaurav-patil-1729b531a/)
-- **Email**: [gauravofficial4545@gmail.com](mailto:gauravofficial4545@gmail.com)
+- 🎓 Computer Science & Engineering student at WCE, Sangli
+- 💻 Experienced in full-stack development using the MERN stack
+- 🏆 Smart India Hackathon 2025 National Finalist
+- 🚀 Interested in Software Development, DevOps, and System Design
+- 🧩 Solved 900+ Data Structures and Algorithms problems
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Framework**: [React 18](https://react.dev/)
-- **Bundler / Build Tool**: [Vite](https://vitejs.dev/)
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **Animations**: [Framer Motion](https://www.framer.com/motion/)
-- **Icons**: [Lucide React](https://lucide.dev/)
-- **Typography**: [Kanit](https://fonts.google.com/specimen/Kanit) via Google Fonts
+**Languages**
+- C, C++, Java, JavaScript
+
+**Frontend Development**
+- React.js, HTML5, CSS3, Tailwind CSS, Bootstrap
+
+**Backend Development**
+- Node.js, Express.js, REST APIs, Socket.IO
+
+**Databases**
+- MongoDB, MySQL, PostgreSQL
+
+**Tools & Technologies**
+- Git, GitHub, Docker, Linux, AWS, VS Code
+
+**Core Computer Science**
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Operating Systems
+- Database Management Systems
 
 ---
 
-## ✨ Features & Sections
+## 🚀 Featured Projects
 
-- **Hero Section**: Dynamic 3D graphics, subtle gradients, and quick call-to-actions.
-- **Marquee Ticker**: Smooth continuous scrolling highlighting core competencies and domains.
-- **About & Coding Profiles**: Highlights competitive programming journey and verified links to LeetCode, Codeforces, CodeChef, and GeeksforGeeks.
-- **Categorized Skills**:
-  - *Languages*: C++, Java, JavaScript, SQL
-  - *Frontend*: React.js, Tailwind CSS
-  - *Backend*: Node.js, Express.js
-  - *Databases*: MySQL, MongoDB, PostgreSQL
-  - *Tools & DevOps*: Git, GitHub, Docker
-  - *CS Fundamentals*: Data Structures & Algorithms, OOP, DBMS, OS
-- **Featured Projects**:
-  1. **WARGAMES**: Linux challenge platform featuring browser-based `xterm.js` terminals backed by isolated Docker containers. Played by 250+ users.
-  2. **QuickChat**: Real-time MERN chat application featuring Socket.IO, JWT security, and Cloudinary media sharing.
-  3. **Holo-Heri**: 3D heritage visualization system developed for Smart India Hackathon 2025 combining web viewers with hardware integration.
-- **Achievements & Honors**: SIH 2025 Finalist, WCPC ICPC-style 2nd Runner-Up, 750+ DSA problems solved.
-- **Education Timeline**: B.Tech in CSE at Walchand College of Engineering, Sangli.
-- **Interactive Contact**: Magnetic buttons, social links, and direct email connection.
+### 1. WARGAMES — Linux Learning Platform
+An interactive Linux learning platform that helps users practice Linux commands through Docker-based challenges.
 
----
+- Built a multi-level challenge system with automated flag validation.
+- Integrated Docker containers with a terminal interface using xterm.js.
+- Supported 250+ users during community events.
+- **Tech Stack:** React.js, Node.js, Express.js, Docker, PostgreSQL
 
-## 📁 Project Structure
+### 2. QuickChat — Real-Time Messaging Application
+A real-time messaging application that enables users to communicate through an interactive chat interface.
 
-```text
-Gaurav-portfolio/
-├── public/                 # Static assets (favicons, SVGs)
-├── src/
-│   ├── assets/             # Images and local media
-│   ├── components/         # Reusable UI components (Magnet, FadeIn, AnimatedText, etc.)
-│   ├── sections/           # Individual page sections (Hero, About, Projects, Skills, etc.)
-│   ├── data.js             # Portfolio content, projects, education, and social data
-│   ├── App.jsx             # Main application layout
-│   ├── index.css           # Global Tailwind and font styles
-│   └── main.jsx            # React root mount point
-├── index.html              # HTML template with SEO metadata
-├── tailwind.config.js      # Tailwind CSS configuration
-├── vite.config.js          # Vite build config
-└── package.json            # Project dependencies and scripts
-```
+- Implemented real-time messaging using Socket.IO.
+- Built the application using the MERN stack.
+- Deployed the frontend and backend using Vercel and Render.
+- **Tech Stack:** MongoDB, Express.js, React.js, Node.js, Socket.IO
+
+### 3. VigilExam — Secure Online Examination System
+A desktop-based examination platform designed to improve exam security through proctoring and system monitoring.
+
+- Developed using Electron.
+- Designed camera and microphone monitoring features.
+- Implemented suspicious-process detection and examination restrictions.
+- **Tech Stack:** Electron, JavaScript, Node.js
 
 ---
 
-## ⚡ Getting Started
+## 🏆 Achievements
 
-### Prerequisites
-
-Ensure you have [Node.js](https://nodejs.org/) (v18 or newer recommended) installed.
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Gaurav-Patil-13/Gaurav-portfolio.git
-   cd Gaurav-portfolio
-   ```
-
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-### Running Locally
-
-Start the Vite development server with Hot Module Replacement (HMR):
-```bash
-npm run dev
-```
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the site.
-
-### Building for Production
-
-Compile optimized production assets into the `dist/` directory:
-```bash
-npm run build
-```
-
-Preview the production build locally:
-```bash
-npm run preview
-```
+- 🥇 Smart India Hackathon 2025 National Finalist
+- 💻 Solved 900+ DSA and Competitive Programming problems
+- ⭐ 2★ CodeChef
+- 🏆 Winner of WCPC
+- 🥈 Second Runner-Up — WCPC March 2024
+- 🏆 ACM Hackathon Winner
 
 ---
 
-## 📄 License
+## 👨‍💻 Competitive Programming Profiles
 
-This project is open-source and available under the [MIT License](LICENSE).
+- [CodeChef](https://www.codechef.com/users/patil_gaurav45)
+- [Codeforces](https://codeforces.com/profile/patilgaurav5634)
+- [GitHub](https://github.com/YOUR_GITHUB_USERNAME)
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [Your LinkedIn Profile](YOUR_LINKEDIN_URL)
+- **GitHub:** [Your GitHub Profile](YOUR_GITHUB_URL)
+- **Email:** YOUR_EMAIL_ADDRESS
+
+---
+
+⭐ *Thanks for visiting my portfolio! Feel free to explore my projects and connect with me.*
