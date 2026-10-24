@@ -15,21 +15,27 @@ I'm a Computer Science and Engineering student at **Walchand College of Engineer
 ## 🛠️ Tech Stack
 
 **Languages**
+
 - C, C++, Java, JavaScript
 
 **Frontend Development**
+
 - React.js, HTML5, CSS3, Tailwind CSS, Bootstrap
 
 **Backend Development**
+
 - Node.js, Express.js, REST APIs, Socket.IO
 
 **Databases**
+
 - MongoDB, MySQL, PostgreSQL
 
 **Tools & Technologies**
+
 - Git, GitHub, Docker, Linux, AWS, VS Code
 
 **Core Computer Science**
+
 - Data Structures and Algorithms
 - Object-Oriented Programming
 - Operating Systems
@@ -40,6 +46,7 @@ I'm a Computer Science and Engineering student at **Walchand College of Engineer
 ## 🚀 Featured Projects
 
 ### 1. WARGAMES — Linux Learning Platform
+
 An interactive Linux learning platform that helps users practice Linux commands through Docker-based challenges.
 
 - Built a multi-level challenge system with automated flag validation.
@@ -48,6 +55,7 @@ An interactive Linux learning platform that helps users practice Linux commands 
 - **Tech Stack:** React.js, Node.js, Express.js, Docker, PostgreSQL
 
 ### 2. QuickChat — Real-Time Messaging Application
+
 A real-time messaging application that enables users to communicate through an interactive chat interface.
 
 - Implemented real-time messaging using Socket.IO.
@@ -55,13 +63,14 @@ A real-time messaging application that enables users to communicate through an i
 - Deployed the frontend and backend using Vercel and Render.
 - **Tech Stack:** MongoDB, Express.js, React.js, Node.js, Socket.IO
 
-### 3. VigilExam — Secure Online Examination System
-A desktop-based examination platform designed to improve exam security through proctoring and system monitoring.
+### 3. HoloHeri — 3D Heritage Visualization System
 
-- Developed using Electron.
-- Designed camera and microphone monitoring features.
-- Implemented suspicious-process detection and examination restrictions.
-- **Tech Stack:** Electron, JavaScript, Node.js
+A heritage visualization project developed for Smart India Hackathon 2025, combining interactive 3D visualization with hardware integration.
+
+- Developed an interactive approach to visualizing cultural heritage.
+- Integrated 3D visualization with a hardware-based holographic display.
+- Contributed to the project as part of the Smart India Hackathon 2025 journey.
+- **Tech Stack:** 3D Visualization, Web Technologies, Hardware Integration
 
 ---
 
@@ -72,24 +81,15 @@ A desktop-based examination platform designed to improve exam security through p
 - ⭐ 2★ CodeChef
 - 🏆 Winner of WCPC
 - 🥈 Second Runner-Up — WCPC March 2024
-- 🏆 ACM Hackathon Winner
-
----
-
-## 👨‍💻 Competitive Programming Profiles
-
-- [CodeChef](https://www.codechef.com/users/patil_gaurav45)
-- [Codeforces](https://codeforces.com/profile/patilgaurav5634)
-- [GitHub](https://github.com/YOUR_GITHUB_USERNAME)
 
 ---
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [Your LinkedIn Profile](YOUR_LINKEDIN_URL)
-- **GitHub:** [Your GitHub Profile](YOUR_GITHUB_URL)
-- **Email:** YOUR_EMAIL_ADDRESS
+- **LinkedIn:** [Gaurav Patil](https://www.linkedin.com/in/gaurav-patil-1729b531a/)
+- **GitHub:** [Gaurav-Patil-13](https://github.com/Gaurav-Patil-13)
+- **Email:** [gauravofficial4545@gmail.com](mailto\:gauravofficial4545@gmail.com)
 
 ---
 
-⭐ *Thanks for visiting my portfolio! Feel free to explore my projects and connect with me.*
+⭐ *Thanks for visiting my profile! Feel free to explore my projects and connect with me.*
